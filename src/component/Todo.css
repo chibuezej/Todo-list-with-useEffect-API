@@ -1,0 +1,15 @@
+.Todocard {
+    display: flex;
+    flex-wrap: wrap;
+    background-color:black ;
+    color: white;
+    margin: 10px;
+    padding: 25px;
+    width: 150px;
+    
+
+}
+.setTodos{
+    display: flex;
+    flex-wrap: wrap;
+}
